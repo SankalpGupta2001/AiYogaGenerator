@@ -1,6 +1,6 @@
 # AiYogaGenerator
 ![Screenshot (7)](https://github.com/SankalpGupta2001/AiYogaGenerator/assets/83775048/71c9cd55-41b0-400e-9eeb-c9bebf1bf78b)
-
+![Screenshot (8)](https://github.com/SankalpGupta2001/AiYogaGenerator/assets/83775048/44cacdc4-e9d0-4b0f-84e0-fbe4b22f97eb)
 
 Step to run the code : 
 
@@ -12,6 +12,7 @@ Step to run the code :
 Now project will be running in localhost 
 
 Detail Explaination of Project : 
+
 
 1) In this I have used Google Palm API to generate routines
 2) Here we have to give two input duration (in minutes) and difficulty (beginner , intermediate , advanced) and will give your Daily Yoga Routine in free of cost .
@@ -27,6 +28,7 @@ As the data i was expecting from AI will be in three lines , First line will be 
 
 But rememeber on checking if data will come in wrong format then please regenerate the data as it is Goggle Palm AI so it can give sometime incorrect format . 
 
+I'm adding some screenshot also for reference . 
 
 In last I will say I have enjoyed this assignment very much 
 
