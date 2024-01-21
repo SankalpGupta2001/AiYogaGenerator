@@ -1,6 +1,7 @@
 # AiYogaGenerator
-![Screenshot (7)](https://github.com/SankalpGupta2001/AiYogaGenerator/assets/83775048/71c9cd55-41b0-400e-9eeb-c9bebf1bf78b)
-![Screenshot (8)](https://github.com/SankalpGupta2001/AiYogaGenerator/assets/83775048/44cacdc4-e9d0-4b0f-84e0-fbe4b22f97eb)
+![Screenshot (8)](https://github.com/SankalpGupta2001/AiYogaGenerator/assets/83775048/e039ca45-cae7-4ed6-b549-dca910501faf)
+![Screenshot (7)](https://github.com/SankalpGupta2001/AiYogaGenerator/assets/83775048/a3e9da13-691c-47f9-937c-9503a33983d5)
+
 
 Step to run the code : 
 
