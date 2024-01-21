@@ -49,12 +49,6 @@ const YogaForm = ({ onGenerate }) => {
       doc.text(repetitions, 20, j + yOffset);j=j+10;
       doc.setTextColor(0, 0, 0);
 
-      //doc.text(`Repetitions: ${routine['Repetitions'].replace(excludeWords, '').trim()}`, 20, 45 + yOffset);
-      //doc.text('', 20, 80 + yOffset); // You can adjust the value to control the space
-      //doc.text('', 20, 80 + yOffset); // You can adjust the value to control the space
-      
-      // doc.text(`Descriptions: ${routine['Descriptions'].replace(excludeWords, '').trim()}`, 20, 60 + yOffset);
-
       doc.setFont('helvetica', 'normal');
       const descriptionText = routine['Descriptions']?routine['Descriptions'].replace(excludeWords, '').trim():'';
       const descriptionLines = doc.splitTextToSize(descriptionText, 150); // Adjusted the width based on your preference
