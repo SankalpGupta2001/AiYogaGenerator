@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import YogaForm from './YogaForm';
 import YogaList from './YogaList';
-// import RoutinePDF from './RoutinePDF';
 
 
 
