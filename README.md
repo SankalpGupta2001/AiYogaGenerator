@@ -19,6 +19,11 @@ Detail Explaination of Project :
 2) Here we have to give two input duration (in minutes) and difficulty (beginner , intermediate , advanced) and will give your Daily Yoga Routine in free of cost .
 3) We can down load also  the rotine as pdf form
 4) The data is stored in the supabase in table format
+5) In .env file three variables needed first for google palm api key , Supabase url , Supabase key as :
+   API_KEY
+   SUPABASE_URL
+   SUPABASE_KEY
+
 
 I have choose the design of database as this format
 
@@ -29,7 +34,7 @@ As the data i was expecting from AI will be in three lines , First line will be 
 
 But rememeber on checking if data will come in wrong format then please regenerate the data as it is Goggle Palm AI so it can give sometime incorrect format . 
 
-I'm adding some screenshot also for reference . 
+I'm adding some screenshot (Frontend Part , Supabase Database) also for reference . 
 
 In last I will say I have enjoyed this assignment very much 
 
