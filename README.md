@@ -14,14 +14,14 @@ Now project will be running in localhost
 Detail Explaination of Project : 
 
 
-1) In this I have used Google Palm API to generate routines
-2) Here we have to give two input duration (in minutes) and difficulty (beginner , intermediate , advanced) and will give your Daily Yoga Routine in free of cost .
-3) We can down load also  the rotine as pdf form
-4) The data is stored in the supabase in table format
+#1) In this I have used Google Palm API to generate routines
+#2) Here we have to give two input duration (in minutes) and difficulty (beginner , intermediate , advanced) and will give your Daily Yoga Routine in free of cost .
+#3) We can down load also  the rotine as pdf form
+#4) The data is stored in the supabase in table format
 
-I have choose the design of database as this format
+#I have choose the design of database as this format
 
-id                    Pose                       Repetitions                 Descriptions 
+#id                    Pose                       Repetitions                 Descriptions 
 
 
 As the data i was expecting from AI will be in three lines , First line will be main heading of pose then second line repetitions then third line descriptions . But some time AI will produced some wrong format data so for that I have seperate data in three lines so from this most of the time data is coming in right format.
