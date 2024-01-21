@@ -25,7 +25,7 @@ const RoutineList = ({ routines }) => {
     padding: 10,
     color: 'green',
     borderRadius: 40,
-      // Apply margin-bottom if routines.length is 0
+      
   }}
 >
   Enter Inputs and Get's Your Daily Yoga Routine For Free
